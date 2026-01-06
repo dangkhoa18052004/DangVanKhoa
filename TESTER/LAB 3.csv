@@ -1,0 +1,26 @@
+﻿Bài 4,,,
+,,,
+,,,
+PHẠM VI,1 <= tháng <= 12,,
+,,,
+GIÁ TRỊ BIÊN,,,
+Loại,Giá trị,,
+Xmin-,0,,
+Xmin,1,,
+Xmin+,2,,
+Xnom,6,,
+Xmax-,11,,
+Xmax,12,,
+Xmax+,13,,
+,,,
+TEST CASES,,,
+ID,Input,Expected,Type
+TC01,0,Invalid - Lỗi: Tháng phải từ 1-12,Xmin-
+TC02,1,Valid - Tháng hợp lệ,Xmin
+TC03,2,Valid - Tháng hợp lệ,Xmin+
+TC04,6,Valid - Tháng hợp lệ,Xnom
+TC05,11,Valid - Tháng hợp lệ,Xmax-
+TC06,12,Valid - Tháng hợp lệ,Xmax
+TC07,13,Invalid - Lỗi: Tháng phải từ 1-12,Xmax+
+TC08,-1,Invalid - Lỗi: Tháng không hợp lệ,Negative
+TC09,abc,Invalid - Lỗi: Phải nhập số,Non-numeric
