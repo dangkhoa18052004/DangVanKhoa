@@ -1,0 +1,136 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\TESTER\\DangVanKhoa\\TESTER\\TUAN4\\LabUnitTestSolution\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{30CDACA6-384D-4954-A102-C11E87D659B5}|LabUnitTest.Tests\\LabUnitTest.Tests.csproj|d:\\tester\\dangvankhoa\\tester\\tuan4\\labunittestsolution\\labunittest.tests\\scholarshiptests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{30CDACA6-384D-4954-A102-C11E87D659B5}|LabUnitTest.Tests\\LabUnitTest.Tests.csproj|solutionrelative:labunittest.tests\\scholarshiptests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E7E7A4DA-BAB0-470E-B8DB-F2062A3915AE}|LabUnitTest\\LabUnitTest.csproj|d:\\tester\\dangvankhoa\\tester\\tuan4\\labunittestsolution\\labunittest\\scholarship.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E7E7A4DA-BAB0-470E-B8DB-F2062A3915AE}|LabUnitTest\\LabUnitTest.csproj|solutionrelative:labunittest\\scholarship.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30CDACA6-384D-4954-A102-C11E87D659B5}|LabUnitTest.Tests\\LabUnitTest.Tests.csproj|d:\\tester\\dangvankhoa\\tester\\tuan4\\labunittestsolution\\labunittest.tests\\rectangletests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{30CDACA6-384D-4954-A102-C11E87D659B5}|LabUnitTest.Tests\\LabUnitTest.Tests.csproj|solutionrelative:labunittest.tests\\rectangletests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E7E7A4DA-BAB0-470E-B8DB-F2062A3915AE}|LabUnitTest\\LabUnitTest.csproj|d:\\tester\\dangvankhoa\\tester\\tuan4\\labunittestsolution\\labunittest\\geometry.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E7E7A4DA-BAB0-470E-B8DB-F2062A3915AE}|LabUnitTest\\LabUnitTest.csproj|solutionrelative:labunittest\\geometry.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30CDACA6-384D-4954-A102-C11E87D659B5}|LabUnitTest.Tests\\LabUnitTest.Tests.csproj|d:\\tester\\dangvankhoa\\tester\\tuan4\\labunittestsolution\\labunittest.tests\\radixtests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{30CDACA6-384D-4954-A102-C11E87D659B5}|LabUnitTest.Tests\\LabUnitTest.Tests.csproj|solutionrelative:labunittest.tests\\radixtests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E7E7A4DA-BAB0-470E-B8DB-F2062A3915AE}|LabUnitTest\\LabUnitTest.csproj|d:\\tester\\dangvankhoa\\tester\\tuan4\\labunittestsolution\\labunittest\\radix.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E7E7A4DA-BAB0-470E-B8DB-F2062A3915AE}|LabUnitTest\\LabUnitTest.csproj|solutionrelative:labunittest\\radix.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ScholarshipTests.cs",
+              "DocumentMoniker": "D:\\TESTER\\DangVanKhoa\\TESTER\\TUAN4\\LabUnitTestSolution\\LabUnitTest.Tests\\ScholarshipTests.cs",
+              "RelativeDocumentMoniker": "LabUnitTest.Tests\\ScholarshipTests.cs",
+              "ToolTip": "D:\\TESTER\\DangVanKhoa\\TESTER\\TUAN4\\LabUnitTestSolution\\LabUnitTest.Tests\\ScholarshipTests.cs",
+              "RelativeToolTip": "LabUnitTest.Tests\\ScholarshipTests.cs",
+              "ViewState": "AgIAACwAAAAAAAAAAAAAwEcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-20T07:44:07.638Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Scholarship.cs",
+              "DocumentMoniker": "D:\\TESTER\\DangVanKhoa\\TESTER\\TUAN4\\LabUnitTestSolution\\LabUnitTest\\Scholarship.cs",
+              "RelativeDocumentMoniker": "LabUnitTest\\Scholarship.cs",
+              "ToolTip": "D:\\TESTER\\DangVanKhoa\\TESTER\\TUAN4\\LabUnitTestSolution\\LabUnitTest\\Scholarship.cs",
+              "RelativeToolTip": "LabUnitTest\\Scholarship.cs",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAxwDoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-20T07:43:46.93Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "RectangleTests.cs",
+              "DocumentMoniker": "D:\\TESTER\\DangVanKhoa\\TESTER\\TUAN4\\LabUnitTestSolution\\LabUnitTest.Tests\\RectangleTests.cs",
+              "RelativeDocumentMoniker": "LabUnitTest.Tests\\RectangleTests.cs",
+              "ToolTip": "D:\\TESTER\\DangVanKhoa\\TESTER\\TUAN4\\LabUnitTestSolution\\LabUnitTest.Tests\\RectangleTests.cs",
+              "RelativeToolTip": "LabUnitTest.Tests\\RectangleTests.cs",
+              "ViewState": "AgIAACEAAAAAAAAAAAAAwDwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-20T07:42:27.809Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Geometry.cs",
+              "DocumentMoniker": "D:\\TESTER\\DangVanKhoa\\TESTER\\TUAN4\\LabUnitTestSolution\\LabUnitTest\\Geometry.cs",
+              "RelativeDocumentMoniker": "LabUnitTest\\Geometry.cs",
+              "ToolTip": "D:\\TESTER\\DangVanKhoa\\TESTER\\TUAN4\\LabUnitTestSolution\\LabUnitTest\\Geometry.cs",
+              "RelativeToolTip": "LabUnitTest\\Geometry.cs",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAAwDoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-20T07:42:07.536Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "RadixTests.cs",
+              "DocumentMoniker": "D:\\TESTER\\DangVanKhoa\\TESTER\\TUAN4\\LabUnitTestSolution\\LabUnitTest.Tests\\RadixTests.cs",
+              "RelativeDocumentMoniker": "LabUnitTest.Tests\\RadixTests.cs",
+              "ToolTip": "D:\\TESTER\\DangVanKhoa\\TESTER\\TUAN4\\LabUnitTestSolution\\LabUnitTest.Tests\\RadixTests.cs",
+              "RelativeToolTip": "LabUnitTest.Tests\\RadixTests.cs",
+              "ViewState": "AgIAABwAAAAAAAAAAAAAwDcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-20T07:39:45.545Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Radix.cs",
+              "DocumentMoniker": "D:\\TESTER\\DangVanKhoa\\TESTER\\TUAN4\\LabUnitTestSolution\\LabUnitTest\\Radix.cs",
+              "RelativeDocumentMoniker": "LabUnitTest\\Radix.cs",
+              "ToolTip": "D:\\TESTER\\DangVanKhoa\\TESTER\\TUAN4\\LabUnitTestSolution\\LabUnitTest\\Radix.cs",
+              "RelativeToolTip": "LabUnitTest\\Radix.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAxwCQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-20T07:39:16.748Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

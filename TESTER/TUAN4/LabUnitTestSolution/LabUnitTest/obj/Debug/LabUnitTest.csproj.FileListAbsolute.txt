@@ -1,0 +1,6 @@
+D:\TESTER\DangVanKhoa\TESTER\TUAN4\LabUnitTestSolution\LabUnitTest\bin\Debug\LabUnitTest.dll
+D:\TESTER\DangVanKhoa\TESTER\TUAN4\LabUnitTestSolution\LabUnitTest\bin\Debug\LabUnitTest.pdb
+D:\TESTER\DangVanKhoa\TESTER\TUAN4\LabUnitTestSolution\LabUnitTest\obj\Debug\LabUnitTest.csproj.AssemblyReference.cache
+D:\TESTER\DangVanKhoa\TESTER\TUAN4\LabUnitTestSolution\LabUnitTest\obj\Debug\LabUnitTest.csproj.CoreCompileInputs.cache
+D:\TESTER\DangVanKhoa\TESTER\TUAN4\LabUnitTestSolution\LabUnitTest\obj\Debug\LabUnitTest.dll
+D:\TESTER\DangVanKhoa\TESTER\TUAN4\LabUnitTestSolution\LabUnitTest\obj\Debug\LabUnitTest.pdb
