@@ -7,7 +7,7 @@
       "RelativeMoniker": "D:0:0:{30CDACA6-384D-4954-A102-C11E87D659B5}|LabUnitTest.Tests\\LabUnitTest.Tests.csproj|solutionrelative:labunittest.tests\\scholarshiptests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E7E7A4DA-BAB0-470E-B8DB-F2062A3915AE}|LabUnitTest\\LabUnitTest.csproj|d:\\tester\\dangvankhoa\\tester\\tuan4\\labunittestsolution\\labunittest\\scholarship.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{E7E7A4DA-BAB0-470E-B8DB-F2062A3915AE}|LabUnitTest\\LabUnitTest.csproj|D:\\TESTER\\DangVanKhoa\\TESTER\\TUAN4\\LabUnitTestSolution\\labunittest\\scholarship.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E7E7A4DA-BAB0-470E-B8DB-F2062A3915AE}|LabUnitTest\\LabUnitTest.csproj|solutionrelative:labunittest\\scholarship.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
@@ -15,7 +15,7 @@
       "RelativeMoniker": "D:0:0:{30CDACA6-384D-4954-A102-C11E87D659B5}|LabUnitTest.Tests\\LabUnitTest.Tests.csproj|solutionrelative:labunittest.tests\\rectangletests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E7E7A4DA-BAB0-470E-B8DB-F2062A3915AE}|LabUnitTest\\LabUnitTest.csproj|d:\\tester\\dangvankhoa\\tester\\tuan4\\labunittestsolution\\labunittest\\geometry.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{E7E7A4DA-BAB0-470E-B8DB-F2062A3915AE}|LabUnitTest\\LabUnitTest.csproj|D:\\TESTER\\DangVanKhoa\\TESTER\\TUAN4\\LabUnitTestSolution\\labunittest\\geometry.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E7E7A4DA-BAB0-470E-B8DB-F2062A3915AE}|LabUnitTest\\LabUnitTest.csproj|solutionrelative:labunittest\\geometry.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
@@ -23,7 +23,7 @@
       "RelativeMoniker": "D:0:0:{30CDACA6-384D-4954-A102-C11E87D659B5}|LabUnitTest.Tests\\LabUnitTest.Tests.csproj|solutionrelative:labunittest.tests\\radixtests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E7E7A4DA-BAB0-470E-B8DB-F2062A3915AE}|LabUnitTest\\LabUnitTest.csproj|d:\\tester\\dangvankhoa\\tester\\tuan4\\labunittestsolution\\labunittest\\radix.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{E7E7A4DA-BAB0-470E-B8DB-F2062A3915AE}|LabUnitTest\\LabUnitTest.csproj|D:\\TESTER\\DangVanKhoa\\TESTER\\TUAN4\\LabUnitTestSolution\\labunittest\\radix.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E7E7A4DA-BAB0-470E-B8DB-F2062A3915AE}|LabUnitTest\\LabUnitTest.csproj|solutionrelative:labunittest\\radix.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -63,8 +63,7 @@
               "RelativeToolTip": "LabUnitTest\\Scholarship.cs",
               "ViewState": "AgIAAB8AAAAAAAAAAAAxwDoAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-20T07:43:46.93Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-20T07:43:46.93Z"
             },
             {
               "$type": "Document",
@@ -76,8 +75,7 @@
               "RelativeToolTip": "LabUnitTest.Tests\\RectangleTests.cs",
               "ViewState": "AgIAACEAAAAAAAAAAAAAwDwAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-20T07:42:27.809Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-20T07:42:27.809Z"
             },
             {
               "$type": "Document",
@@ -89,8 +87,7 @@
               "RelativeToolTip": "LabUnitTest\\Geometry.cs",
               "ViewState": "AgIAAB8AAAAAAAAAAAAAwDoAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-20T07:42:07.536Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-20T07:42:07.536Z"
             },
             {
               "$type": "Document",
@@ -102,8 +99,7 @@
               "RelativeToolTip": "LabUnitTest.Tests\\RadixTests.cs",
               "ViewState": "AgIAABwAAAAAAAAAAAAAwDcAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-20T07:39:45.545Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-20T07:39:45.545Z"
             },
             {
               "$type": "Document",
@@ -115,8 +111,7 @@
               "RelativeToolTip": "LabUnitTest\\Radix.cs",
               "ViewState": "AgIAAAkAAAAAAAAAAAAxwCQAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-20T07:39:16.748Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-20T07:39:16.748Z"
             }
           ]
         },
