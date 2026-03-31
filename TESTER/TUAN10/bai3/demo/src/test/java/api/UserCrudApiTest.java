@@ -10,14 +10,14 @@ import java.util.Map;
 import static io.restassured.RestAssured.given;
 import static org.hamcrest.Matchers.*;
 
-public class UserCrudApiTest extends ApiBaseTest {
+public class UserCrudApiTest extends JsonSchemaValidationTest {
 
     private static String createdUserId;
     private static String createdAtValue;
 
     @Test(priority = 1)
     public void testCreateUser() {
-        CreateUserRequest requestBody = new CreateUserRequest("Dang Van Khoa", "Tester");
+        AuthApiTest requestBody = new AuthApiTest("Dang Van Khoa", "Tester");
 
         Response response = given(requestSpec)
                 .body(requestBody)
@@ -40,7 +40,7 @@ public class UserCrudApiTest extends ApiBaseTest {
 
     @Test(priority = 2)
     public void testUpdateUserPut() {
-        CreateUserRequest requestBody = new CreateUserRequest("Dang Van Khoa", "Senior Tester");
+        AuthApiTest requestBody = new AuthApiTest("Dang Van Khoa", "Senior Tester");
 
         Response response = given(requestSpec)
                 .body(requestBody)
@@ -82,7 +82,7 @@ public class UserCrudApiTest extends ApiBaseTest {
 
     @Test(priority = 5)
     public void testPostThenGetConfirm() {
-        CreateUserRequest requestBody = new CreateUserRequest("Dang Van Khoa", "QA");
+        AuthApiTest requestBody = new AuthApiTest("Dang Van Khoa", "QA");
 
         Response postResponse = given(requestSpec)
                 .body(requestBody)

@@ -12,7 +12,7 @@ import org.testng.annotations.BeforeClass;
 
 import static org.hamcrest.Matchers.lessThan;
 
-public class ApiBaseTest {
+public class JsonSchemaValidationTest {
 
     protected RequestSpecification requestSpec;
     protected ResponseSpecification responseSpec;

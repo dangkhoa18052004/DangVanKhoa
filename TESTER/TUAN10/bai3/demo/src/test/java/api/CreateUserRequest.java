@@ -1,13 +1,13 @@
 package api;
 
-public class CreateUserRequest {
+public class AuthApiTest {
     private String name;
     private String job;
 
-    public CreateUserRequest() {
+    public AuthApiTest() {
     }
 
-    public CreateUserRequest(String name, String job) {
+    public AuthApiTest(String name, String job) {
         this.name = name;
         this.job = job;
     }
